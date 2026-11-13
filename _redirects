@@ -1,0 +1,3 @@
+# Cloudflare Pages resolves slug/index.html routes natively. Only merged-page redirects live here.
+/ceiling-water-damage-repair /roof-leak-water-damage/ 301
+/ceiling-water-damage-repair/ /roof-leak-water-damage/ 301
